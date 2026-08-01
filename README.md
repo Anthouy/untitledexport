@@ -1,7 +1,5 @@
 # untitledexport
 
-Deployed Website: <a href="https://anthouy.github.io/untitledexport" > untitled_export </a>
+Deployed Website: <a href="https://anthouy.github.io/untitledexport" > untitled_export photography </a>
 
-Deployed Website: 'https://anthouy.github.io/untitledexport'
-
-Repo Link: `https://github.com/Anthouy/untitledexport`
+Repo Link: <a href="https://github.com/Anthouy/untitledexport" > untitledexport </a> <!-- https://github.com/Anthouy/untitledexport -->
