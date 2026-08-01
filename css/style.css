@@ -22,6 +22,14 @@
   border-bottom: 3px solid red;
 }
 
+.testtext {
+    display:block;
+    text-align: left;
+    color: #000000;
+    font-size: 48px;
+    font-weight: 200;
+  }
+
 /* CSS for hamburger icon */
 .container {
   display: inline-block;
